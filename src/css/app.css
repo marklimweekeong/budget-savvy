@@ -1,0 +1,177 @@
+/* app global css #f2f2f2 */
+:root {
+	--primary-dark: #185abd;
+	--primary-medium: #1782aa;
+	--q-color-primary: #1782aa;
+	--q-color-light: #ffffff;
+	--q-color-bgdefault: #edf0f5;
+	--q-color-secondary: #26a69a;
+	--q-color-accent: #9c27b0;
+	--q-color-positive: #21ba45;
+	--q-color-negative: #c10015;
+	--q-color-info: #31ccec;
+	--q-color-warning: #f2c037;
+	--q-color-dark: #333333;
+	--q-color-semidark: #565656;
+	--q-color-primary-light: #91e1ff;
+	--q-color-primary-comp1: #f38221;
+	--q-color-divergent-1: #104e64;
+	--q-color-divergent-2: #006273;
+	--q-color-divergent-3: #007673;
+	--q-color-divergent-4: #008965;
+	--q-color-divergent-5: #35994b;
+	--q-color-divergent-6: #78a528;
+	--q-color-divergent-7: #b9aa00;
+	--q-color-divergent-8: #ffa600;
+	--q-color-divergent-9: #c3928a;
+	--q-color-divergent-10: #bd786e;
+	--q-color-divergent-11: #b55e52;
+	--q-color-divergent-12: #ac4238;
+	--q-color-divergent-13: #a01f1f;
+}
+
+.bg-primaryd-ark {
+	background: var(--primary-dark) !important;
+}
+.text-primary-dark {
+	color: var(--primary-dark) !important;
+}
+
+.bg-divergent-1 {
+	background: var(--q-color-divergent-1) !important;
+}
+.bg-divergent-2 {
+	background: var(--q-color-divergent-2) !important;
+}
+.bg-divergent-3 {
+	background: var(--q-color-divergent-3) !important;
+}
+.bg-divergent-4 {
+	background: var(--q-color-divergent-4) !important;
+}
+.bg-divergent-5 {
+	background: var(--q-color-divergent-5) !important;
+}
+.bg-divergent-6 {
+	background: var(--q-color-divergent-6) !important;
+}
+.bg-divergent-7 {
+	background: var(--q-color-divergent-7) !important;
+}
+.bg-divergent-8 {
+	background: var(--q-color-divergent-8) !important;
+}
+.bg-divergent-9 {
+	background: var(--q-color-divergent-9) !important;
+}
+.bg-divergent-10 {
+	background: var(--q-color-divergent-10) !important;
+}
+.bg-divergent-11 {
+	background: var(--q-color-divergent-11) !important;
+}
+.bg-divergent-12 {
+	background: var(--q-color-divergent-12) !important;
+}
+.bg-divergent-13 {
+	background: var(--q-color-divergent-13) !important;
+}
+.text-divergent-1 {
+	color: var(--q-color-divergent-1) !important;
+}
+.text-divergent-2 {
+	color: var(--q-color-divergent-2) !important;
+}
+.text-divergent-3 {
+	color: var(--q-color-divergent-3) !important;
+}
+.text-divergent-4 {
+	color: var(--q-color-divergent-4) !important;
+}
+.text-divergent-5 {
+	color: var(--q-color-divergent-5) !important;
+}
+.text-divergent-6 {
+	color: var(--q-color-divergent-6) !important;
+}
+.text-divergent-7 {
+	color: var(--q-color-divergent-7) !important;
+}
+.text-divergent-8 {
+	color: var(--q-color-divergent-8) !important;
+}
+.text-divergent-9 {
+	color: var(--q-color-divergent-9) !important;
+}
+.text-divergent-10 {
+	color: var(--q-color-divergent-10) !important;
+}
+.text-divergent-11 {
+	color: var(--q-color-divergent-11) !important;
+}
+.text-divergent-12 {
+	color: var(--q-color-divergent-12) !important;
+}
+.text-divergent-13 {
+	color: var(--q-color-divergent-13) !important;
+}
+
+.bg-primary-light {
+	background: var(--q-color-primary-light) !important;
+}
+.text-primary-light {
+	color: var(--q-color-primary-light) !important;
+}
+.bg-primary-comp1 {
+	background: var(--q-color-primary-comp1) !important;
+}
+.text-primary-comp1 {
+	color: var(--q-color-primary-comp1) !important;
+}
+
+.bg-light {
+	background: var(--q-color-light) !important;
+}
+.text-light {
+	color: var(--q-color-light) !important;
+}
+.bg-semidark {
+	background: var(--q-color-semidark) !important;
+}
+.text-semidark {
+	color: var(--q-color-semidark) !important;
+}
+.bg-default {
+	background: var(--q-color-bgdefault) !important;
+}
+.text-default {
+	color: var(--q-color-bgdefault) !important;
+}
+
+/* Layout */
+.active-footer-link {
+	color: var(--q-color-primary) !important;
+}
+.footer-class {
+	padding: 0px !important;
+}
+
+.footer-font {
+	font-size: 11px !important;
+	font-weight: 500 !important;
+}
+
+.header-font {
+	font-size: 30px;
+	font-weight: 500;
+	color: white;
+}
+
+/* Card */
+.card-title {
+	font-size: 18px !important;
+	font-weight: 500 !important;
+	line-height: 2rem !important;
+	letter-spacing: 0.0125em !important;
+}
+
